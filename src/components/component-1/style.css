@@ -1,0 +1,7 @@
+.custom-text {
+    background-color: violet;
+    font-size: x-large;
+    font-family: cursive;
+    position: static;
+    display: block;
+}
