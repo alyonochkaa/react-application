@@ -53,6 +53,7 @@ hr {
 }
 
 .media-icons > img {
+  width: 100%;
   transition: 0.25s;
   cursor: pointer;
   opacity: 0.55;
